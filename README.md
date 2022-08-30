@@ -10,7 +10,7 @@ This template also allows the user to mix and match div. blocks should students 
     
 ## Get started! 
 
-1. Go to the [I-am-a-project-in-becoming repository](https://github.com/pitt-fuego/I-am-a-project-in-becoming) 
+1. Go to the [Projects Fuego](https://github.com/sjquigley/Projects-Fuego) 
 
 2. Click the green "Code" button, and then click "Download ZIP" to your local computer. 
 
