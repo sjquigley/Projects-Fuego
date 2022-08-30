@@ -1,4 +1,4 @@
-# I am...A Project in Becoming
+# Projects Fuego
 
 This multimodal coding tool is a great way to break the ice at beginning of your school year. Why not use code to help your students introduce themselves and to process where they are on their journey through life? It's also an easy way for you to promote coding literacy, computational thinking, and computer science knowledge in your classroom.
 
