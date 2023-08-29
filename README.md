@@ -16,7 +16,8 @@ This template also allows the user to mix and match div. blocks should students 
 
 3. Find this folder in your downloads. Move this folder to a secure place. You will return to this folder to manage your scripts and other assets like images, pdfs, etcetera. 
 
-4. For Mac, Windows, and Linux, download and/or open a code editor like [atom.io](https://atom.io) or any code editor of your choice. If you use a Chromebook O.S., we recommend Code Pad or Caret. You will find additional information below about optimizing your code editor to work with HTML and CSS.  
+4. For Mac, Windows, and Linux, download and/or open a code editor like [Visual Studio Code](https://code.visualstudio.com/download) or any code editor of your choice. If you use a Chromebook O.S., we recommend Code Pad or Caret. You will find additional information below about optimizing your code editor to work with HTML and CSS.
+
 
 5. Use the code editor to open the index.html and style.css files from your project folder.
 
@@ -30,7 +31,7 @@ This template also allows the user to mix and match div. blocks should students 
 
 10. Test the URL in a browser. Magic, no? Actually, it's computer science.  
  
-Watch our [instructional video](https://youtu.be/cJiYas7B9Us) (Note: this video follows a different template using the same process.)
+Watch our [instructional video](https://youtu.be/FupjIP-iNGk) (Note: this video follows a different template using the same process.)
 
 
 Check out our other cool [Pitt Fuego Coding Tools](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/)
@@ -44,24 +45,21 @@ Check out our other cool [Pitt Fuego Coding Tools](https://pitt-fuego.github.io/
 
 Setting up Atom for Windows and CodePad for Chromebooks 
 
-### Atom (Mac)
+### Visual Studio Code (Mac)
 
+1. Download "**[Visual Studio Code](https://code.visualstudio.com/download)**"
+1. Add HTML Preview - from the dropdown menu, select **Code>Preferences>Extension.**
+1. In the search bar type "**Live Preview**." Install.
+1. Right click on **index.html** file. Click S**how Preview** to see a live version of your code.  
+1. Adjust text wrapping - from the dropdown menu, select **View>Word Wrap** (this will force lines of code to conform to your viewer tab.)
 
-1. Download "**[Atom](https://atom.io)**"
-2. Add HTML Preview 
-	- from the dropdown menu, select **Atom>Preferences>Install**
-	- In the search bar type "**html-preview**." 
-	- Select the package built by "**HARMSK**." Click "**Install**."
-1. Adjust text wrapping 
-	 -	from the dropdown menu, select **View>Toggle Soft Wrap** (this will force lines of code to conform to your viewer tab.)
+### Visual Studio Code (Windows)
 
-### Atom (Windows)
-
-1. Download "**[Atom](https://atom.io)**" 
-1. Add HTML Preview - from the dropdown menu, select **File>Settings.** In the tab that loads select **+Install** 
-1. In the search bar type "**html preview**." 
-1. Select the package built by "**HARMSK**." Click "**Install**."
-1. Adjust text wrapping - from the dropdown menu, select **View>Toggle Soft Wrap** (this will force lines of code to conform to your viewer tab.)
+1. Download "**[Visual Studio Code](https://code.visualstudio.com/download)**"
+1. Add HTML Preview - - from the dropdown menu, select **Code>Preferences>Extension.**
+1. In the search bar type "**Live Preview**."
+1. Right click on **index.html** file. Click S**how Preview** to see a live version of your code.
+1. Adjust text wrapping - from the dropdown menu, select **View>Word Wrap** (this will force lines of code to conform to your viewer tab.)
 
 ### Code Pad (Chromebook)
 
